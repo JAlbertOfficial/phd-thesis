@@ -46,10 +46,6 @@ region for aflatoxin contamination in Sub-Saharan Africa, no aflatoxins were det
 
 - Contains tables used in the dissertation
 
-``classfile.cls``
-
-- A class file that defines the structure and layout of the template
-
 ``README.md``
 
 - Readme file
@@ -57,6 +53,10 @@ region for aflatoxin contamination in Sub-Saharan Africa, no aflatoxins were det
 ``thesis.bib``
 
 - The full bibliographical details of the references cited
+
+``thesis.cls``
+
+- A class file that defines the structure and layout of the template
 
 ``thesis.pdf``
 
